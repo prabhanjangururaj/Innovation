@@ -1,5 +1,5 @@
 # Innovation
-Patents and Publications
+Patents and Publications of Prabhanjan Gururaj
 
 #### Multi-tier Disaster Recovery rehearsal of a workload 
 	US10671495B2, Granted on 2-Jun-2020 
