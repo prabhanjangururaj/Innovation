@@ -2,7 +2,8 @@
 Patents and Publications of Prabhanjan Gururaj
 
 #### Multi-tier Disaster Recovery rehearsal of a workload 
-	US10671495B2, Granted on 2-Jun-2020 
+	US10671495B2, Granted on 2-Jun-2020  
+    Disclosed herein relate performing a disaster recovery rehearsal of a workload in a three-datacenter topology, with zero disruption to production. The solution is implemented in HPE Business Continuity Solutions in virtualized environments. The cloned workload may be applied to the resource in the selected datacenter location, and a result of running the cloned workload on the resource may be generated. This result helps while auditing the regulatory compliance. 
 
 #### Relationship driven workload placement for computing clusters
 	US20200257571A1, Filed on 13-Feb-2019
