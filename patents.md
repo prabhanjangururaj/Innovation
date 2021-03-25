@@ -10,9 +10,16 @@ Patents and Publications of Prabhanjan Gururaj
 
 #### Relationship driven workload placement for computing clusters
 	US20200257571A1, Filed on 13-Feb-2019
+	Methods and systems are provided for the assignment and placement of at least two related workloads, to one or more 
+	computing nodes in a computing cluster containing at least three computing nodes. Assigning the workloads based upon 
+	a functional relationship between workloads and computes.
 
-#### DevOps System Analysis with AI/ML
+#### System and application analysis with AI/ML 
 	IN-202041050480, Filed on 19-Nov-2020
+	The proposed method provides an analysis mechanism from the logs in ecosystems which captures the underlying sequence 
+	of events. These events from multiple logs and systems become input to the proposed method and determine the possible 
+	root causes for a problem in the ecosystem. (1) Recurrent Neural Network, (2) event sequential pattern deviation detection 
+	model, (3) anomaly Clustering model, and (4) retrace and correlate mechanism are the four crucial steps dosclosed here. 
 
 #### Availability of Blockchain services with multi peer and multi role capabilities 
 	US-16/775769, Filed on 29-Jan-2020
