@@ -1,8 +1,6 @@
 # Innovations
 Contributions and Publications by Prabhanjan Gururaj
 
-https://www.fortanix.com/blog/2021/07/confidential-computing-a-tale-about-trust/
-
 #### Fortanix | Confidential Computing: A tale about trust
       A story of a General and an Engineer who never trusted each other
       https://www.fortanix.com/blog/2021/07/confidential-computing-a-tale-about-trust/
