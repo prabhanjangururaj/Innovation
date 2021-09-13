@@ -1,6 +1,12 @@
 # Innovations
 Contributions and Publications by Prabhanjan Gururaj
 
+https://www.fortanix.com/blog/2021/07/confidential-computing-a-tale-about-trust/
+
+#### Fortanix | Confidential Computing: A tale about trust
+      A story of a General and an Engineer who never trusted each other
+      https://www.fortanix.com/blog/2021/07/confidential-computing-a-tale-about-trust/
+
 #### IEEE | Identity management using permissioned blockchain
       2020 International Conference on Mainstreaming Block Chain Implementation  
       https://ieeexplore.ieee.org/document/9203031/
